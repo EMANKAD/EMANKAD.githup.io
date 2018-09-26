@@ -1,0 +1,93 @@
+/**** Start Default Theme ****/
+
+#stop.scrollTop {
+	
+	background-color: #E426D5 ;
+
+}
+.section-header .section-title:before {
+	
+	
+	background: #E426D5;
+	
+}
+
+.section-header .section-title:after {
+	
+	
+	
+	background: #E426D5;
+}
+li button{
+	
+	background-color:#E426D5;
+	
+}
+.btn.btn-primary {
+  background: #E426D5;
+  border-color: #E426D5; border-radius:25px;
+}
+.cancelbtn {
+    
+    background-color: #E426D5;
+}
+#portfolio .portfolio-filter > li a:hover,
+#portfolio .portfolio-filter > li a.active {
+  background: #E426D5;
+}
+
+#pricing ul.pricing li.plan-purchase .btn-primary {
+	background:#E426D5;
+}
+
+.option-box .color-option,
+.testimonials .carousel-indicators li.active
+{
+    border: 3px solid #E426D5;
+}
+.option-box .gear-check
+{
+    background-color:#E426D5;
+}
+
+#portfolio .portfolio-filter > li a.active {
+    background:#E426D5 ;
+}
+
+#main-menu.navbar-default .navbar-nav > li.active > a, #main-menu.navbar-default .navbar-nav > li.open > a, #main-menu.navbar-default .navbar-nav > li:hover > a{
+	
+	
+	    color:#E426D5;
+	
+	
+	
+}
+
+
+#main-slider .slider-inner .btn{
+	
+	
+	
+	    border: 3px solid #E426D5;
+}
+
+#main-slider .slider-inner .btn.btn-primary:hover{ background:#E426D5;}
+
+#myBtn{
+	
+background: #E426D;	
+	
+	
+	
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: #E426D5;
+    color: white;
+}
+.modal-footer1 {
+    padding: 2px 16px;
+    background-color: #E426D5;
+    color: white;
+}

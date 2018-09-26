@@ -1,0 +1,72 @@
+/**** Start Default Theme ****/
+
+
+
+.scrollTop {
+background-color: #ff641b;
+
+}
+.section-header .section-title:before {
+	
+	
+	background: #ff641b;
+	
+}
+
+.section-header .section-title:after {
+	
+	
+	
+	background: #ff641b;
+}
+ li button{
+	
+	background-color: #ff641b;
+	
+}
+.btn.btn-primary {
+  background: #ff641b;
+  border-color: #ff641b; border-radius:25px;
+}
+
+#portfolio .portfolio-filter > li a:hover,
+#portfolio .portfolio-filter > li a.active {
+  background: #ff641b;
+}
+
+#pricing ul.pricing li.plan-purchase .btn-primary {
+	background:#ff641b;
+}
+
+.option-box .color-option,
+.testimonials .carousel-indicators li.active
+{
+    border: 3px solid #ff641b;
+}
+.option-box .gear-check
+{
+    background-color:#ff641b;
+}
+.cancelbtn {
+    
+    background-color: #ff641b;
+}
+
+#myBtn{
+	
+background: #ff641b;	
+	
+	
+	
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: #ff641b;
+    color: white;
+}
+.modal-footer1 {
+    padding: 2px 16px;
+    background-color: #ff641b;
+    color: white;
+}

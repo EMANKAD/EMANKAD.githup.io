@@ -1,0 +1,100 @@
+/**** Start Default Theme ****/
+
+#stop.scrollTop {
+	
+	background-color: #009AFF;
+
+}
+.section-header .section-title:before {
+	
+	
+	background: #009AFF;
+	
+}
+ li button{
+	
+	background-color:#009AFF;
+	
+}
+.section-header .section-title:after {
+	
+	
+	
+	background: #009AFF;
+}
+
+.btn.btn-primary {
+  background: #009AFF;
+  border-color: #009AFF; border-radius:25px;
+}
+
+#portfolio .portfolio-filter > li a:hover,
+#portfolio .portfolio-filter > li a.active {
+  background: #009AFF;
+}
+
+#pricing ul.pricing li.plan-purchase .btn-primary {
+	background:#009AFF;
+}
+
+.option-box .color-option,
+.testimonials .carousel-indicators li.active
+{
+    border: 3px solid #009AFF;
+}
+.option-box .gear-check
+{
+    background-color:#009AFF;
+}
+
+#portfolio .portfolio-filter > li a.active {
+    background:#009AFF ;
+}
+#portfolio .portfolio-filter > li a:hover,
+#portfolio .portfolio-filter > li a.active {
+  background: #009AFF;
+}
+#main-menu.navbar-default .navbar-nav > li.active > a, #main-menu.navbar-default .navbar-nav > li.open > a, #main-menu.navbar-default .navbar-nav > li:hover > a{
+	
+	
+	    color:#009AFF;
+	
+	
+	
+}
+
+
+#main-slider .slider-inner .btn{
+	
+	
+	
+	    border: 3px solid #009AFF;
+}
+
+#main-slider .slider-inner .btn.btn-primary:hover{ background:#009AFF;}
+
+#myBtn{
+	
+background: #009AFF;	
+	
+	
+	
+}
+
+.cancelbtn {
+    
+    background-color: #009AFF;
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: #009AFF;
+    color: white;
+}
+.modal-footer1 {
+    padding: 2px 16px;
+    background-color: #009AFF;
+    color: white;
+}
+
+/**** End Default Theme ****/

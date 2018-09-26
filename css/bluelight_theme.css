@@ -1,0 +1,94 @@
+#stop.scrollTop {
+	
+	background: #67acbd ;
+
+}
+.section-header .section-title:before {
+	
+	
+	background: #67acbd;
+	
+}
+
+.section-header .section-title:after {
+	
+	
+	
+	background: #67acbd;
+}
+ li button{
+	
+	background-color: #67acbd;
+	
+}
+.btn.btn-primary {
+  background: #67acbd;
+  border-color: #67acbd; border-radius:25px;
+}
+
+#portfolio .portfolio-filter > li a:hover,
+#portfolio .portfolio-filter > li a.active {
+  background: #67acbd;
+}
+
+#pricing ul.pricing li.plan-purchase .btn-primary {
+	background:#67acbd;
+}
+
+.option-box .color-option,
+.testimonials .carousel-indicators li.active
+{
+    border: 3px solid #67acbd;
+}
+.option-box .gear-check
+{
+    background-color:#67acbd;
+}
+
+#portfolio .portfolio-filter > li a.active {
+    background:#67acbd ;
+}
+
+#main-menu.navbar-default .navbar-nav > li.active > a, #main-menu.navbar-default .navbar-nav > li.open > a, #main-menu.navbar-default .navbar-nav > li:hover > a{
+	
+	
+	    color:#67acbd;
+	
+	
+	
+}
+
+
+#main-slider .slider-inner .btn{
+	
+	
+	
+	    border: 3px solid #67acbd;
+}
+
+#main-slider .slider-inner .btn.btn-primary:hover{ background:#67acbd;}
+
+#myBtn{
+	
+background: #67acbd;	
+	
+	
+	
+}
+
+.cancelbtn {
+    
+    background-color: #67acbd;
+}
+
+.modal-header {
+    padding: 2px 16px;
+    background-color: #67acbd;
+    color: white;
+}
+.modal-footer1 {
+    padding: 2px 16px;
+    background-color: #67acbd;
+    color: white;
+}
+
